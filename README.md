@@ -6,6 +6,8 @@
 
 ### Selection Sort
 
+![](http://www.csit.parkland.edu/~mbrandyberry/CS1Java/images/Lesson28/SelectionSortAlgorithm.jpg)
+
 + http://jsbin.com/juwiqe/edit?js
 
 ### Insertion Sort
